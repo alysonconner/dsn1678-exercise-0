@@ -1,0 +1,18 @@
+body{
+	background-color: red;
+}
+
+main{
+	background-color:#ffffff;
+	margin: 5rem;
+	padding: 2rem;
+}
+
+h1 {
+	color: #6a2434;
+}
+
+img {
+	width: 100%;
+}
+

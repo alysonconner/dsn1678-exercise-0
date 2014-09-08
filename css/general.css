@@ -1,0 +1,173 @@
+html {
+	background-color: #e9e9e9;
+	color: #333;
+	font-family: sans-serif;
+	line-height: 1.5;
+}
+
+main{
+	background-color:#fff;
+	margin: 0 auto;
+	width: 370px;
+	border-radius: 10px;
+  line-height: 1.5;
+  box-shadow: 0 2px 2px rgba(0,0,0,0.5);
+}
+
+img {
+	display: block;
+	width: 100%;
+}
+
+a,
+a:link,
+a:visited {
+	border-bottom: 1px solid rgba(160, 35, 65, 05);
+	color: #a52443;
+	text-decoration: none;
+}
+
+a:hover,
+a:focus,
+a:active {
+	opacity: .5;
+}
+
+header{
+	padding: 1em;
+}
+
+h1 {
+	color: #a52443;
+	font-size: 1.25em;
+	line-height: 1.5;
+}
+
+h2 {
+	color: #a52443;
+	font-size: 1.2rem;
+}
+
+h3 {
+	display: none;
+}
+
+p {
+	margin: 0 0 1.5em;
+	padding: 0;
+}
+
+ul, ol {
+	margin-top: 0;
+	margin-bottom: 1.5em;
+}
+
+ol {
+	padding-left: 1.5em;
+}
+
+figure {
+	margin: 0 0 1.5em;
+	padding: 0;
+	border-top: 1px solid #ddd;
+	border-bottom: 1px solid #ddd;
+}
+
+figcaption {
+	background-color: #fcfcfc;
+	padding: 1rem;
+	border-top: 1px solid #ddd;
+	color: #666;
+	font-size: 0.75rem;
+}
+
+.parag {
+	padding: 1em;
+}
+
+.quotes {
+	margin-bottom: 1.5rem;
+	border-top: 1px solid #ddd;
+}
+
+blockquote {
+	margin: 0;
+	padding: 1em;
+	border-bottom: 1px solid #ddd;
+	background-color: #f9f9f9;
+	font-family: serif;
+}
+
+blockquote p {
+	margin: 0;
+}
+
+blockquote footer {
+	text-align: right;
+	color: #666;
+}
+
+aside {
+	margin: 0 0 1.5em;
+	padding: 1em;
+	background-color: #f2f2f2;
+	border-bottom: 1px solid #ddd;
+	border-top: 1px solid #ddd;
+}
+
+dl {
+	margin: 0;
+	overflow: hidden;
+	padding: 0;
+}
+
+dt {
+	clear: left;
+	float: left;
+	margin: 0;
+	padding: 0;
+	width: 9em;
+}
+
+dd{
+	float: left;
+	margin: 0;
+	padding: 0;
+}
+
+.tags {
+	list-style-type: none;
+	padding: 0;
+}
+
+.tags li {
+	display: inline-block;
+	margin-bottom: 0.5em;
+
+}
+
+.tags a,
+.tags a:link,
+.tags a:visited {
+	display: inline-block;
+	padding: 0 0.5em 0.2em;
+	background-color: #e8cad1;
+	border-radius: 1.5em;
+	color: #a52443;
+}
+
+.tags a:hover,
+.tags a:focus,
+.tags a:active {
+	opacity: .5;
+}
+
+footer {
+	padding: 0 1rem 1rem;
+	color: #666;
+	font-size: .75rem;
+}
+
+footer p {
+	margin: 0;
+}
